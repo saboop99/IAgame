@@ -74,6 +74,8 @@ Resolução: remoção dessa função para não atrasar o lançamento do projeto
 
 ## Recursos de inseridos 🧰
 
+Cinemachine
+
 ## Desenvolvedores/Contribuintes:
 
 Rafael do Nascimento Rodrigues
